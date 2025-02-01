@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👋hey I am a front-end developer.
+🟡I am a front-end developer
+🔴 and more
+
 
 
 # 💻 Tech Stack:
